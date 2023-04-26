@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/remote-react/static/css/main.53aaeec4.css",
+    "main.css": "/remote-react/static/css/main.b22ee793.css",
     "main.js": "/remote-react/static/js/main.4566b6ae.js",
     "index.html": "/remote-react/index.html",
-    "main.53aaeec4.css.map": "/remote-react/static/css/main.53aaeec4.css.map",
+    "main.b22ee793.css.map": "/remote-react/static/css/main.b22ee793.css.map",
     "main.4566b6ae.js.map": "/remote-react/static/js/main.4566b6ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.53aaeec4.css",
+    "static/css/main.b22ee793.css",
     "static/js/main.4566b6ae.js"
   ]
 }
